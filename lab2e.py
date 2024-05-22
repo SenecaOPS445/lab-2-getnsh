@@ -3,10 +3,10 @@
 #Author ID: 177726213
 #Date Created: 2024/05/22
 
-count = 10
-while count != 1:
-    print(count)
-    count = count - 1
-print(count)
+timer = 10
+while timer != 1:
+    print(timer)
+    timer = timer - 1
+print(timer)
 print("blast off!")
  
